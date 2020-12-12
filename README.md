@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 -->
 
-<img align="center" src="https://github.com/RodriNegron/RodriNegron/blob/main/source.gif">
+<img align="center" alt="gif" src="https://github.com/RodriNegron/RodriNegron/blob/main/source.gif">
 
 <br />
 
