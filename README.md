@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 -->
 
-![](https://github.com/RodriNegron/RodriNegron/blob/main/source.gif)
-
 <p align="center">
-  <img width="460" height="300" src="https://github.com/RodriNegron/RodriNegron/blob/main/source.gif">
+  <img src="https://github.com/RodriNegron/RodriNegron/blob/main/source.gif">
 </p>
 
 - ⚡ I’m currently learning Javascript
