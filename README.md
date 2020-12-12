@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🔭 I’m currently working on ...
 -->
+<div style="text-align:center"><img src="https://github.com/RodriNegron/RodriNegron/blob/main/source.gif" /></div>
 ![](https://github.com/RodriNegron/RodriNegron/blob/main/source.gif)
 - ⚡ I’m currently learning Javascript
 
