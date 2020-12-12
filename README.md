@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🔭 I’m currently working on ...
 -->
-- 🌱 I’m currently learning Javascript
+
+- ⚡ I’m currently learning Javascript
 
 - ⚡ En busca de aprender nuevas tecnologias de desarollo
 
