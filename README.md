@@ -19,8 +19,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/RodriNegron/RodriNegron/blob/main/source.gif">
 </p>
 
-- ⚡ I’m currently learning Javascript
+- ⚡ I’m currently coding Javascript
 
-- ⚡ En busca de aprender nuevas tecnologias de desarollo
+- ⚡ En constante incorpotacion de nuevas tecnologias de desarollo
 
 </p>
