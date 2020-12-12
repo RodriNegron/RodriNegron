@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🔭 I’m currently working on ...
 -->
-
+[](https://media.giphy.com/media/PzmDzaJWu4RB3Kaqqv/giphy.gif)
 - ⚡ I’m currently learning Javascript
 
 - ⚡ En busca de aprender nuevas tecnologias de desarollo
