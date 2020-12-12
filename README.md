@@ -1,6 +1,6 @@
 <p align="center">
 ### Hola! Soy Rodrigo Negron 👋
-</p>
+
 <!--
 **RodriNegron/RodriNegron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 
 - ⚡ En busca de aprender nuevas tecnologias de desarollo
 
+</p>
