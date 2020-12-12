@@ -1,5 +1,5 @@
 <p align="center">
-### Hola! Soy Rodrigo Negron 👋
+👋
 
 <!--
 **RodriNegron/RodriNegron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 -->
 
-<p align="center">
+
   <img src="https://github.com/RodriNegron/RodriNegron/blob/main/source.gif">
-</p>
+
 
 - ⚡ I’m currently learning Javascript
 
