@@ -1,5 +1,5 @@
 
-### 👋Hola!, soy Rodrigo Negron
+### Hola!, soy Rodrigo 👋
 
 <!--
 **RodriNegron/RodriNegron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,11 +17,19 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github.com/RodriNegron/RodriNegron/blob/main/source.gif">
 
-- ⚡ I’m currently coding Javascript
+<br />
+
+## Estudiante, desarollador en proceso
+
+- ⚡ Actualmente desarollando Javascript
 
 - ⚡ En constante incorporacion de nuevas tecnologias de desarollo
 
-### Languages and Tools:
+<br />
+
+### Tecnologias y Herramientas:
+
+
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
