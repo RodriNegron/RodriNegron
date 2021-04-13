@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## Estudiante, desarollador en proceso
 
-- ⚡ Actualmente desarollando Javascript
+- ⚡ Actualmente desarollando e-commerce como desarrollador Full stack
 
 - ⚡ En constante incorporacion de nuevas tecnologias de desarollo
 
