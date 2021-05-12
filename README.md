@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 -->
 
-<img align="center" alt="gif" src="https://github.com/RodriNegron/RodriNegron/blob/main/source.gif">
+<img align="center" alt="gif" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif">
 
 <br />
 
-## Estudiante, desarollador en proceso
+## Desarolloador, estudiante.
 
 - ⚡ Actualmente desarrollando distintos proyectos orientados al desarrollo web con tecnologias como NodeJS, Express, Javascript,React.
 
