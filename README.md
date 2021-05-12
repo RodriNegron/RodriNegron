@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## Estudiante, desarollador en proceso
 
-- ⚡ Actualmente desarollando e-commerce como desarrollador Full stack
+- ⚡ Actualmente desarrollando distintos proyectos orientados al desarrollo web con tecnologias como NodeJS, Express, Javascript,React.
 
 - ⚡ En constante incorporacion de nuevas tecnologias de desarollo
 
