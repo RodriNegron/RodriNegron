@@ -1,5 +1,5 @@
 
-### Hola!, soy Rodrigo 👋
+### Hi, i'm Rodrigo 👋
 
 <!--
 **RodriNegron/RodriNegron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,15 +19,12 @@ Here are some ideas to get you started:
 
 <br />
 
-## Desarolloador, estudiante.
+## Software Engineer.
 
-- ⚡ Actualmente desarrollando distintos proyectos orientados al desarrollo web con tecnologias como NodeJS, Express, Javascript,React.
-
-- ⚡ En constante incorporacion de nuevas tecnologias de desarollo
 
 <br />
 
-### Tecnologias y Herramientas:
+### Tech tools:
 
 
 
